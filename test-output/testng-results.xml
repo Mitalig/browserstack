@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64" started-at="2017-05-06T08:03:56Z" finished-at="2017-05-06T08:03:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64" started-at="2017-05-06T08:03:56Z" finished-at="2017-05-06T08:03:56Z">
+      <class name="com.browserstack.ReadJsonFile">
+        <test-method status="PASS" signature="readJson()[pri:0, instance:com.browserstack.ReadJsonFile@47c62251]" name="readJson" duration-ms="24" started-at="2017-05-06T13:33:56Z" finished-at="2017-05-06T13:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJson -->
+      </class> <!-- com.browserstack.ReadJsonFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
